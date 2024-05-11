@@ -1,5 +1,13 @@
 [
   {
+    "version": "24w19b",
+    "stable": false
+  },
+  {
+    "version": "24w19a",
+    "stable": false
+  },
+  {
     "version": "24w18a",
     "stable": false
   },
