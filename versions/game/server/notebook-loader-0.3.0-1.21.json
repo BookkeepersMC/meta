@@ -1,7 +1,7 @@
 {
     "id": "notebook-loader-0.3.0",
-    "time": "2024-08-07T15:24:37+0000",
-    "releaseTime": "2024-08-07T15:24:37+0000",
+    "time": "2024-08-07T15:30:09+0000",
+    "releaseTime": "2024-08-07T15:30:09+0000",
     "type": "release",
     "inheritsFrom": "1.21",
     "mainClass": "com.bookkeepersmc.loader.impl.launch.knot.KnotServer",
