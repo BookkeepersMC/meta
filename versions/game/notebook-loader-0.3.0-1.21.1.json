@@ -1,7 +1,7 @@
 {
     "id": "notebook-loader-0.3.0",
-    "time": "2024-08-08T14:38:32+0000",
-    "releaseTime": "2024-08-08T14:38:32+0000",
+    "time": "2024-08-08T20:19:32+0000",
+    "releaseTime": "2024-08-08T20:19:32+0000",
     "type": "release",
     "inheritsFrom": "1.21.1",
     "mainClass": "com.bookkeepersmc.loader.impl.launch.knot.KnotClient",
@@ -62,6 +62,10 @@
         },
         {
             "name": "com.bookkeepersmc:notebook-loader:0.3.0",
+            "url": "https://bookkeepersmc.github.io/m2/"
+        },
+        {
+            "name": "com.bookkeepersmc.notebook-api:notebook-api:1.2.0+1.21.1",
             "url": "https://bookkeepersmc.github.io/m2/"
         },
         {
