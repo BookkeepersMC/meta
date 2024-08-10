@@ -1,0 +1,44 @@
+{
+    "content": {
+        "metadata": [
+            {
+                "groupId": [
+                    "com.bookkeepersmc.notebook-api"
+                ]
+            },
+            {
+                "artifactId": [
+                    "notebook-api"
+                ]
+            },
+            {
+                "versioning": [
+                    {
+                        "latest": [
+                            "1.2.0+1.21.1"
+                        ]
+                    },
+                    {
+                        "release": [
+                            "1.2.0+1.21.1"
+                        ]
+                    },
+                    {
+                        "versions": [
+                            {
+                                "version": [
+                                    "1.2.0+1.21.1"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "lastUpdated": [
+                            "20240808194552"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
