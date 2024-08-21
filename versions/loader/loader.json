@@ -5,5 +5,19 @@
     "maven": "com.bookkeepersmc:notebook-loader:0.3.0",
     "version": "0.3.0",
     "stable": true
+  },
+  {
+    "separator": ".",
+    "build": 1,
+    "maven": "com.bookkeepersmc:notebook-loader:0.3.1",
+    "version": "0.3.1",
+    "stable": true
+  },
+  {
+    "separator": ".",
+    "build": 2,
+    "maven": "com.bookkeepersmc:notebook-loader:0.3.2",
+    "version": "0.3.2",
+    "stable": true
   }
 ]
