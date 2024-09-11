@@ -1,9 +1,9 @@
 {
     "id": "notebook-loader-0.3.3-1.21",
-    "time": "2024-09-04T20:21:36+0000",
-    "releaseTime": "2024-09-04T20:21:36+0000",
+    "time": "2024-09-11T16:14:07+0000",
+    "releaseTime": "2024-09-11T16:14:07+0000",
     "type": "release",
-    "inheritsFrom": "24w36a",
+    "inheritsFrom": "24w37a",
     "mainClass": "com.bookkeepersmc.loader.impl.launch.knot.KnotServer",
     "libraries": [
         {
@@ -65,7 +65,7 @@
             "url": "https://bookkeepersmc.github.io/m2/"
         },
         {
-            "name": "net.fabricmc:intermediary:24w36a",
+            "name": "net.fabricmc:intermediary:24w37a",
             "url": "https://maven.fabricmc.net/"
         }
     ]
